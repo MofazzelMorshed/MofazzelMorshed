@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Briefly unavailable for scheduled maintenance...](Briefly unavailable for scheduled maintenance...)
+- 👨‍💻 All of my projects are unavailable for scheduled maintenance...
 
 - 📝 I regularly write articles on [www.facebook.com](www.facebook.com)
 
