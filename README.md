@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mofazzel H. Morshed</h1>
 <h3 align="center">A passionate about AI Robotics & Machine Learning Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mofazzelmorshed&label=Profile%20views&color=0e75b6&style=flat" alt="mofazzelmorshed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mofazzelmorshed" alt="mofazzelmorshed" /></a> </p>
 
