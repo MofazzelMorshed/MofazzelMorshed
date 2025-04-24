@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are unavailable for scheduled maintenance...
 
-- 📝 I regularly write articles on [www.facebook.com](www.facebook.com)
+- 📝 I regularly write articles on (https://dev.to/mofazzelmorshed)
 
 - 💬 Ask me about **Flutter, Dart and Python**
 
